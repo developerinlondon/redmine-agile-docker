@@ -45,7 +45,7 @@ docker pull sameersbn/redmine:2.5.1
 Alternately you can build the image yourself.
 
 ```
-git clone https://github.com/sameersbn/docker-redmine.git
+git clone <this repo>
 cd docker-redmine
 docker build --tag="$USER/redmine" .
 ```
